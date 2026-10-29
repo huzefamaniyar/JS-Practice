@@ -1,3 +1,4 @@
+/* var,let,const is used to declare the variables in js */
 var age = 22;
 /* var should be avoided because it is not a scope declaration*/
 {
@@ -26,8 +27,8 @@ const final_age = 26;
 }
 console.log("(const) outside the scope", final_age);
 
-
-/* comments (single line) */
+/* comments */
+// single line comment
 /* multiline comments
  * line 1
  * line 2
